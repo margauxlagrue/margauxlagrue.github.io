@@ -1,0 +1,60 @@
+h1{
+color: #7F4A38;
+font-size: 48px;
+font-family:Impact;
+text-align: center;
+}
+.navbar{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background: #7F4A38;
+}
+
+.item{
+	display: flex;
+	justify-content: flex-end;
+}
+.item{
+	margin: 10px 30px;
+	color: white;
+	font-family: Optima;
+}
+.item{
+	color: white;
+	font-family: Optima;
+}
+
+.frame{
+	border: 10px solid #7F4A38;
+	margin: 100px;
+	padding: 30px;
+}
+
+
+
+h2{
+font-family: Impact;
+font-size: 24px;
+background: #7F4A38;
+color: white;	
+text-align: center;
+}
+
+h3 {
+font-size: 17px;
+text-align: center;
+}
+
+body{
+font-family: Optima;
+font-size: 14px;
+background-color: #F9D9CE;
+}
+
+
+
+a, a:hover{
+color:brown;	
+}
+
