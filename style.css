@@ -4,6 +4,8 @@ font-size: 48px;
 font-family:Impact;
 text-align: center;
 }
+
+
 .navbar{
 	display: flex;
 	justify-content: space-between;
@@ -59,5 +61,10 @@ h4{
 
 a, a:hover{
 color:brown;	
+}
+
+.imagecentre {
+	display: flex;
+	justify-content: center;
 }
 
