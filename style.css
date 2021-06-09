@@ -1,9 +1,35 @@
 h1{
 color: #7F4A38;
 font-size: 48px;
-font-family:Impact;
+font-family:Inconsolata, cursive;
 text-align: center;
 }
+
+.line-transparent {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.line-light {
+  height: 5px;
+  width: 20%;
+  background: #A57C73;
+}
+
+.line-medium {
+  height: 5px;
+  width: 30%;
+  background: #D5C2BE;
+}
+
+.line-hard {
+  height: 5px;
+  width: 50%;
+  background: #5C2418;
+}
+
 
 
 .navbar{
@@ -31,12 +57,14 @@ text-align: center;
 	border: 10px solid #7F4A38;
 	margin: 100px;
 	padding: 30px;
+	border-radius: 5px;
+	box-shadow: 10px 10px 10px grey;
 }
 
 
 
 h2{
-font-family: Impact;
+font-family:Inconsolata ;
 font-size: 24px;
 background: #7F4A38;
 color: white;	
