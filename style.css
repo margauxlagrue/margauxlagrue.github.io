@@ -96,3 +96,8 @@ color:brown;
 	justify-content: center;
 }
 
+.boutoncontact {
+	display: flex;
+	justify-content: center;
+}
+
